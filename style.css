@@ -1,0 +1,33 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1440px;
+}
+.header{
+    height: 20px;
+    background-color: black;
+}
+.products-list{
+    display: flex;
+}
+.cart-button{
+
+}
+.products-item{
+    border: solid black 1px;
+    margin: 20px 30px 0 0;
+}
+.product-item-photo{
+    height: 300px;
+    width: 300px;
+
+}
+h3{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    text-align: center;
+}
+p{
+    margin-bottom: 10px;
+    text-align: center;
+}
