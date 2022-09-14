@@ -5,12 +5,18 @@
 }
 .header{
     height: 20px;
-    background-color: black;
+    color: gray;
 }
-.products-list{
+.invisible{
+    display: none;
+}
+.products{
     display: flex;
 }
 .cart-button{
+
+}
+.cart-basket-item{
 
 }
 .products-item{
@@ -31,3 +37,4 @@ p{
     margin-bottom: 10px;
     text-align: center;
 }
+
